@@ -15,3 +15,5 @@ Basicamente, o repositório é composto das seguintes pastas:
 
 * funções de Matlab
 * scripts separados em cada um dos capítulos mencionados anteriomente
+
+Realize o download das pastas "funções" e dos respectivos capítulos da disciplina. 
