@@ -1,4 +1,4 @@
-# sinais-e-sistemas
+# Sinais e Sistemas
 Repositório de scripts e funções de Matlab referentes à disciplina de Sinais e Sistemas, do curso de Bacharelado em Engenharia Elétrica do IFMG campus Formiga.
 
 A disciplina está dividida nos seguintes capítulos:
