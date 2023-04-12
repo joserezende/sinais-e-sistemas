@@ -70,7 +70,6 @@ pause
 % Apresentando resultado do somatório de convolução para cada passo n
 y = zeros(1,length(x));
 pos = 1;
-% for n=-(n0-1):n0
 for n=-N:N    
     [h,nh] = deslocar(h,nh1,n);
     
